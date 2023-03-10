@@ -60,4 +60,10 @@ public class CustomList extends ArrayAdapter<City> {
         cities.add(city);
     }
 
+
+    public short hasCity(City city){
+
+        return 0;
+    }
+
 }
